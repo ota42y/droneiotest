@@ -1,0 +1,6 @@
+image: bradrydzewski/base
+env:
+ - TZ=Asia/Tokyo
+script:
+ - date
+ 
